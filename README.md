@@ -10,5 +10,5 @@ In working on this recipes project, I have learned the following skills:
 - Learned basic CSS syntax, learned about selectors, including especially the universal selector, type selectors, and class selectors.
 - Used CSS syntax externally via a stlyesheet to modify and style some of my recipes webpages.
 - Learned different ways to add CSS to an HTML file using 1. external CSS, 2. internal CSS, and 3. inline CSS. 
-- Learned how to benefit the most from using HTML elements like <div>, especially with the class selector. 
+- Learned how to benefit the most from using HTML elements like div element, especially with the class selector. 
 
