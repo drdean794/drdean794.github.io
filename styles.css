@@ -1,0 +1,21 @@
+* {
+    background-color:lightgray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-size: 24px;
+}
+
+li {
+    font-size: 24px;
+}
+
+.mainHeading {
+    text-align:center; 
+    color:firebrick;
+}
+
+.center {
+    text-align: center
+}
